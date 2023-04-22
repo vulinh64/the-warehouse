@@ -1,0 +1,4 @@
+spring.datasource:
+  url: jdbc:sqlserver://localhost:1433;databaseName=vulinh;trustServerCertificate=true
+  username: sa
+  password: 123456
